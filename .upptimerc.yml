@@ -21,7 +21,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Conan Status
   introTitle: "Welcome to the Conan AI status page!"
-  introMessage: "You're probably here because we f*&cked up and the app isn't working, or you're just really curious, or bored, either way welcome!"
+  introMessage: "You're probably here because we f&#^ked up and the app isn't working, or you're just really curious, or bored, either way welcome!"
   navbar:
     - title: Status
       href: /
