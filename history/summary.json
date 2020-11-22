@@ -1,42 +1,34 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "99.99%",
-    "time": 87
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Homepage",
+    "url": "https://conan-ai.co",
+    "slug": "homepage",
     "status": "up",
     "uptime": "100.00%",
-    "time": 129
+    "time": 791
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Medousa (Authentication)",
+    "url": "https://auth.conan-ai.co:32168/",
+    "slug": "medousa-authentication",
     "status": "up",
-    "uptime": "99.82%",
-    "time": 343
+    "uptime": "100.00%",
+    "time": 288
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00%",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "name": "Rosetta (NLU)",
+    "url": "https://nlu.conan-ai.co:32168/",
+    "slug": "rosetta-nlu",
     "status": "up",
-    "uptime": "99.98%",
-    "time": 49
+    "uptime": "100.00%",
+    "time": 286
+  },
+  {
+    "name": "Einstein (API)",
+    "url": "https://api.conan-ai.co:32168/",
+    "slug": "einstein-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 273
   }
 ]
