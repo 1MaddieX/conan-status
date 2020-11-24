@@ -3,9 +3,9 @@
     "name": "Homepage",
     "url": "https://conan-ai.co",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 361
+    "status": "down",
+    "uptime": "99.99%",
+    "time": 342
   },
   {
     "name": "Medousa (Authentication)",
