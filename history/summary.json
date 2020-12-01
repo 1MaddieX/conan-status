@@ -5,7 +5,7 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "100.00%",
-    "time": 257
+    "time": 258
   },
   {
     "name": "Medousa (Authentication)",
@@ -13,7 +13,7 @@
     "slug": "medousa-authentication",
     "status": "up",
     "uptime": "100.00%",
-    "time": 241
+    "time": 244
   },
   {
     "name": "Rosetta (NLU)",
@@ -21,7 +21,7 @@
     "slug": "rosetta-nlu",
     "status": "up",
     "uptime": "100.00%",
-    "time": 254
+    "time": 258
   },
   {
     "name": "Einstein (API)",
@@ -29,6 +29,6 @@
     "slug": "einstein-api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 240
+    "time": 243
   }
 ]
