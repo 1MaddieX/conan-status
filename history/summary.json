@@ -5,7 +5,15 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "100.00%",
-    "time": 250
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 242,
+    "timeDay": 139,
+    "timeWeek": 196,
+    "timeMonth": 242,
+    "timeYear": 242
   },
   {
     "name": "Medousa (Authentication)",
@@ -13,7 +21,15 @@
     "slug": "medousa-authentication",
     "status": "up",
     "uptime": "100.00%",
-    "time": 249
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 243,
+    "timeDay": 177,
+    "timeWeek": 236,
+    "timeMonth": 243,
+    "timeYear": 243
   },
   {
     "name": "Rosetta (NLU)",
@@ -21,7 +37,15 @@
     "slug": "rosetta-nlu",
     "status": "up",
     "uptime": "100.00%",
-    "time": 265
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 250,
+    "timeDay": 73,
+    "timeWeek": 237,
+    "timeMonth": 250,
+    "timeYear": 250
   },
   {
     "name": "Einstein (API)",
@@ -29,6 +53,14 @@
     "slug": "einstein-api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 249
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 246,
+    "timeDay": 200,
+    "timeWeek": 232,
+    "timeMonth": 246,
+    "timeYear": 246
   }
 ]
