@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 129,
-    "timeWeek": 172,
-    "timeMonth": 225,
-    "timeYear": 225
+    "time": 216,
+    "timeDay": 75,
+    "timeWeek": 159,
+    "timeMonth": 216,
+    "timeYear": 216
   },
   {
     "name": "Medousa (Authentication)",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 241,
-    "timeDay": 147,
-    "timeWeek": 240,
-    "timeMonth": 241,
-    "timeYear": 241
+    "time": 233,
+    "timeDay": 114,
+    "timeWeek": 231,
+    "timeMonth": 233,
+    "timeYear": 233
   },
   {
     "name": "Rosetta (NLU)",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 244,
+    "time": 233,
     "timeDay": 87,
-    "timeWeek": 227,
-    "timeMonth": 244,
-    "timeYear": 244
+    "timeWeek": 212,
+    "timeMonth": 233,
+    "timeYear": 233
   },
   {
     "name": "Einstein (API)",
@@ -57,10 +57,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 207,
-    "timeWeek": 248,
-    "timeMonth": 246,
-    "timeYear": 246
+    "time": 236,
+    "timeDay": 95,
+    "timeWeek": 235,
+    "timeMonth": 236,
+    "timeYear": 236
   }
 ]
