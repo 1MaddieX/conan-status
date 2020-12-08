@@ -2,6 +2,7 @@
   {
     "name": "Homepage",
     "url": "https://conan-ai.co",
+    "icon": "https://favicons.githubusercontent.com/conan-ai.co",
     "slug": "homepage",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 171,
-    "timeWeek": 145,
-    "timeMonth": 214,
-    "timeYear": 214
+    "time": 209,
+    "timeDay": 119,
+    "timeWeek": 123,
+    "timeMonth": 209,
+    "timeYear": 209,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Medousa (Authentication)",
     "url": "https://auth.conan-ai.co:32168/",
+    "icon": "https://favicons.githubusercontent.com/auth.conan-ai.co",
     "slug": "medousa-authentication",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 109,
-    "timeWeek": 204,
-    "timeMonth": 225,
-    "timeYear": 225
+    "time": 227,
+    "timeDay": 261,
+    "timeWeek": 202,
+    "timeMonth": 227,
+    "timeYear": 227,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rosetta (NLU)",
     "url": "https://nlu.conan-ai.co:32168/",
+    "icon": "https://favicons.githubusercontent.com/nlu.conan-ai.co",
     "slug": "rosetta-nlu",
     "status": "up",
     "uptime": "100.00%",
@@ -41,15 +46,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 130,
-    "timeWeek": 192,
-    "timeMonth": 227,
-    "timeYear": 227
+    "time": 233,
+    "timeDay": 332,
+    "timeWeek": 197,
+    "timeMonth": 233,
+    "timeYear": 233,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Einstein (API)",
     "url": "https://api.conan-ai.co:32168/",
+    "icon": "https://favicons.githubusercontent.com/api.conan-ai.co",
     "slug": "einstein-api",
     "status": "up",
     "uptime": "100.00%",
@@ -57,10 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 126,
-    "timeWeek": 214,
-    "timeMonth": 229,
-    "timeYear": 229
+    "time": 231,
+    "timeDay": 265,
+    "timeWeek": 213,
+    "timeMonth": 231,
+    "timeYear": 231,
+    "dailyMinutesDown": {}
   }
 ]
