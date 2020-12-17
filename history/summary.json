@@ -40,19 +40,19 @@
     "url": "https://nlu.conan-ai.co:32168/",
     "icon": "https://favicons.githubusercontent.com/nlu.conan-ai.co",
     "slug": "rosetta-nlu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 149,
-    "timeWeek": 160,
-    "timeMonth": 203,
-    "timeYear": 203,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 204,
+    "timeDay": 174,
+    "timeWeek": 167,
+    "timeMonth": 204,
+    "timeYear": 204,
     "dailyMinutesDown": {
-      "2020-12-17": 0
+      "2020-12-17": 24
     }
   },
   {
