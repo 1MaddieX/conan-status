@@ -40,18 +40,20 @@
     "url": "https://nlu.conan-ai.co:32168/",
     "icon": "https://favicons.githubusercontent.com/nlu.conan-ai.co",
     "slug": "rosetta-nlu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 118,
-    "timeWeek": 157,
-    "timeMonth": 204,
-    "timeYear": 204,
-    "dailyMinutesDown": {}
+    "time": 203,
+    "timeDay": 149,
+    "timeWeek": 160,
+    "timeMonth": 203,
+    "timeYear": 203,
+    "dailyMinutesDown": {
+      "2020-12-17": 0
+    }
   },
   {
     "name": "Einstein (API)",
