@@ -25,10 +25,10 @@
     "url": "https://auth.conan-ai.co:32168/",
     "icon": "https://favicons.githubusercontent.com/auth.conan-ai.co",
     "slug": "medousa-authentication",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
@@ -36,25 +36,28 @@
     "timeWeek": 517,
     "timeMonth": 243,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-17": 1
+    }
   },
   {
     "name": "Rosetta (NLU)",
     "url": "https://nlu.conan-ai.co:32168/",
     "icon": "https://favicons.githubusercontent.com/nlu.conan-ai.co",
     "slug": "rosetta-nlu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 185,
     "timeDay": 96,
     "timeWeek": 173,
-    "timeMonth": 170,
+    "timeMonth": 168,
     "timeYear": 185,
     "dailyMinutesDown": {
+      "2021-01-17": 1,
       "2020-12-17": 25
     }
   },
@@ -63,9 +66,9 @@
     "url": "https://api.conan-ai.co:32168/",
     "icon": "https://favicons.githubusercontent.com/api.conan-ai.co",
     "slug": "einstein-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,6 +77,8 @@
     "timeWeek": 164,
     "timeMonth": 162,
     "timeYear": 182,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-17": 0
+    }
   }
 ]
